@@ -7,7 +7,7 @@ Example Proxy Login URL: https://mycompany.my.salesforce.com/servlet/servlet.su?
 
 Where oid = Organization Id, retURL = %2F + Person Account Id, sunetworkid = Portal Network Id, sunetworkuserid = Portal User Id
 
-<a href="https://githubsfdeploy.herokuapp.com/app/githubdeploy/kevina-code/LogIntoExperienceAsUser?ref=master">
+<a href="https://githubsfdeploy.herokuapp.com">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
 </a>
 
