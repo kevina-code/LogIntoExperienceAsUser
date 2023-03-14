@@ -1,5 +1,5 @@
 # LogIntoExperienceAsUser
-This is a workaround to provide proxy login access to customer portals for non-system admins while in Lightning Experience. 
+This is a workaround to provide proxy login access to customer portals for non-system admins in production while in Lightning Experience. 
 
 It dynamically constructs the proxy login URL for a particular customer portal.
 
